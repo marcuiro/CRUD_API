@@ -1,3 +1,8 @@
+// Curso de Engenharia de Software - UniEVANGÉLICA 
+// Disciplina de Programação Web
+// Devs: Marco Antônio Martins de Carvalho Neto
+// DATA: 21/05/2023
+
 const express = require('express');
 const app = express();
 
